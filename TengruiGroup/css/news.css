@@ -1,0 +1,44 @@
+/*banner部分*/
+.main-banner{width: 100%; height: auto;}
+#banner img{min-width: 100%; height: auto;}
+/*新闻动态*/
+.main-news{height:auto; padding-bottom: 50px; background-color: #FFFFFF; overflow: hidden;}
+.news-title{font-size: 40px; color: #b70309; padding-top: 70px; padding-bottom: 50px;}
+
+
+.main-news .news-list{height: auto; padding-top: 100px;}
+.main-news .news-list ul{height: 450px; padding: 0 20px; margin-top: 20px; overflow: hidden;}
+/*.main-news .news-list .list-con .board-first{float: left; border: 1px solid #FF0000;}*/
+.main-news .news-list ul li img{width: 330px; height: 260px;}
+.main-news .news-list ul li{width: 330px; height: 710px; background-color: #FFFFFF; box-shadow: 6px 6px 5px #888888; position: absolute;}
+.main-news .news-list ul li h2{padding: 15px 20px; width: 290px; height: 80px;}
+.main-news .news-list ul li h3{padding: 30px 20px 10px 20px; width: 290px; height: 30px;}
+.main-news .news-list ul li p{padding: 10px 20px; width: 290px; height: 160px;}
+.main-news .news-list ul li .btna{padding: 10px 20px; width: 290px; height: 30px;}
+.main-news .news-list ul li .btna .news-knowmore{width: 120px; height: 30px; text-align: center; line-height: 30px;
+ font-family: simhei; font-size: 16px; border: 1px solid #B70309; border-radius: 100px; color: #B70309;}
+.main-news .news-list ul li .btna .news-knowmore:hover{background-color: #B70309;color: #FFFFFF; cursor: pointer;}
+/*.main-news .news-list .list-con .board-second{float: left; border: 1px solid #FF0000;}*/
+/*.main-news .news-list .list-con .board-second img{width: 330px; height: 260px;}
+.main-news .news-list .list-con .board-second{width: 330px; height: 710px; background-color: #FFFFFF; box-shadow: 6px 6px 5px #888888; position: absolute;}
+.main-news .news-list .list-con .board-second h2{padding: 15px 20px; width: 290px; height: 80px;}
+.main-news .news-list .list-con .board-second h3{padding: 30px 20px 10px 20px; width: 290px; height: 30px;}
+.main-news .news-list .list-con .board-second p{padding: 10px 20px; width: 290px; height: 160px;}
+.main-news .news-list .list-con .board-second .btna{padding: 10px 20px; width: 290px; height: 30px;}
+.board-second .btna .news-knowmore{width: 120px; height: 30px; text-align: center; line-height: 30px;
+ font-family: simhei; font-size: 16px; border: 1px solid #B70309; border-radius: 100px; color: #B70309;}
+.board-second .btna .news-knowmore:hover{background-color: #B70309;color: #FFFFFF; cursor: pointer;}*/
+/*.main-news .news-list .list-con .board-third{float: left; border: 1px solid #FF0000;}*/
+/*.main-news .news-list .list-con .board-third img{width: 330px; height: 260px;}
+.main-news .news-list .list-con .board-third{width: 330px; height: 710px; background-color: #FFFFFF; box-shadow: 6px 6px 5px #888888; position: absolute;}
+.main-news .news-list .list-con .board-third h2{padding: 15px 20px; width: 290px; height: 80px;}
+.main-news .news-list .list-con .board-third h3{padding: 30px 20px 10px 20px; width: 290px; height: 30px;}
+.main-news .news-list .list-con .board-third p{padding: 10px 20px; width: 290px; height: 160px;}
+.main-news .news-list .list-con .board-third .btna{padding: 10px 20px; width: 290px; height: 30px;}
+.board-third .btna .news-knowmore{width: 120px; height: 30px; text-align: center; line-height: 30px;
+ font-family: simhei; font-size: 16px; border: 1px solid #B70309; border-radius: 100px; color: #B70309;}
+.board-third .btna .news-knowmore:hover{background-color: #B70309;color: #FFFFFF; cursor: pointer;}*/
+.main-news .news-knowmore-outer{height: auto;}
+.main-news .news-knowmore-outer .news-knowmore{position: relative; left: 45%; margin-top: 70px; width: 10%; height: 30px; text-align: center;
+ line-height: 30px; font-family: simhei; font-size: 16px; border: 1px solid #B70309; border-radius: 100px; color: #B70309;}
+ .main-news .news-knowmore:hover{background-color: #B70309; color: #FFFFFF; cursor: pointer;}

@@ -1,0 +1,8 @@
+/*banner部分*/
+.main-banner{width: 100%; height: auto;}
+#banner img{min-width: 100%; height: auto;}
+/*企业行为管理*/
+.main-behavior{height:auto; background-color: #FFFFFF; overflow: hidden;}
+.behavior-title{font-size: 40px; color: #b70309; text-align: center; padding-top: 70px; padding-bottom: 60px;}
+.behavior-all{height: auto; padding-bottom: 50px;}
+.behavior-all .behavior-all-content{font-size: 20px; height: auto; box-sizing: border-box;}

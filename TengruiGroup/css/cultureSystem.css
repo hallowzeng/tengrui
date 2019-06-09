@@ -1,0 +1,8 @@
+/*banner部分*/
+.main-banner{width: 100%; height: auto;}
+#banner img{min-width: 100%; height: auto;}
+/*企业制度文化*/
+.main-system{height:auto; background-color: #FFFFFF; overflow: hidden;}
+.system-title{font-size: 40px; color: #b70309; padding-top: 80px; padding-bottom: 60px;}
+.system-all{height: auto; padding-bottom: 80px;}
+.system-all .system-all-content{font-size: 20px; height: auto; box-sizing: border-box;}

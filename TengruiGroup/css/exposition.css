@@ -1,0 +1,12 @@
+/*banner部分*/
+.main-banner{width: 100%; height: auto;}
+#banner img{min-width: 100%; height: auto;}
+/*企业经营理念*/
+.main-exposition{height:auto; padding-bottom: 0; background-color: #FFFFFF; overflow: hidden;}
+.exposition-title{font-size: 40px; color: #b70309; text-align: center; padding-top: 70px; padding-bottom: 70px;}
+.exposition-all{height: auto; padding-bottom: 50px;}
+.exposition-all .exposition-all-content{font-size: 20px; height: 312px; margin-bottom: 20px; box-sizing: content-box;}
+.exposition-all .exposition-all-content img{height: 312px; width: 100%;}
+.content-first,.content-second{height: 312px; background-color: #f3f3f3;}
+.content-second .content-second-title{font-size: 30px; color: #b70309; text-align: center; padding-top: 50px; padding-bottom:20px;}
+.content-second .content-second-detail{height: 190px; font-size: 20px; overflow: hidden; padding: 0px 50px;}
