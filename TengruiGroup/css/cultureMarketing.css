@@ -1,8 +1,0 @@
-/*banner部分*/
-.main-banner{width: 100%; height: auto;}
-#banner img{min-width: 100%; height: auto;}
-/*企业营销理念*/
-.main-marketing{height:auto; background-color: #FFFFFF; overflow: hidden;}
-.marketing-title{font-size: 40px; color: #b70309; text-align: center; padding-top: 70px; padding-bottom: 60px;}
-.marketing-all{height: auto; padding-bottom: 80px;}
-.marketing-all .marketing-all-content{font-size: 20px; height: auto; box-sizing: border-box;}
